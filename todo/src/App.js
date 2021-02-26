@@ -19,7 +19,7 @@ class App extends Component {
             <a className="navbar-brand" href="https://codingthesmartway.com">
               <img src={logo} width="40" height="30" alt="CodingTheSmartWay.com" />
             </a>
-            <Link to="/" className="navbar-brand">MERN-Stack Todo App</Link>
+            <Link to="/" className="navbar-brand">Todo App</Link>
             <div className="collpase navbar-collapse">
               <ul className="navbar-nav mr-auto">
                 <li className="navbar-item">
